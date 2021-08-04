@@ -4,10 +4,10 @@
 ## <div align="center">I'm Brian Reed, a Software Engineer</div>  
   
 
-**<div align="center">My portfolio 👉 [Brian Reed Software](https://brian-reed-portfolio.herokuapp.com/) 👈</div>**  
+**<div align="center">My portfolio 👉 [Brian Reed Software](https://www.brian-reed.me/) 👈</div>**  
   
 
-**<div align="center">Questions? [Contact Me ❗](https://brian-reed-portfolio.herokuapp.com/)</div>**  
+**<div align="center">Questions? [Contact Me ❗](https://brian-reed.mfs.gg/brian-reed)</div>**  
   
 
 <br/>  
