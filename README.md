@@ -7,7 +7,7 @@
 **<div align="center">My portfolio 👉 [Brian Reed Software](https://brian-reed-portfolio.herokuapp.com/) 👈</div>**  
   
 
-**<div align="center">Questions ❓ [Contact Me ❗](https://brian-reed-portfolio.herokuapp.com/)</div>**  
+**<div align="center">Questions? [Contact Me ❗](https://brian-reed-portfolio.herokuapp.com/)</div>**  
   
 
 <br/>  
