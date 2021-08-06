@@ -8,9 +8,9 @@
 
 <br/>
 
-**<div align="center">[<img src="https://dabuttonfactory.com/button.png?t=Portfolio&f=Open+Sans-Bold&ts=26&tc=fff&tshs=1&tshc=000&hp=25&vp=10&c=11&bgt=unicolored&bgc=1597d7&be=1&shs=1&shc=444&sho=s">](https://www.brian-reed.me/)</div>**
+**<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628288497/Vanilla-1s-272px_4_cql6te.svg">](https://www.brian-reed.me/)</div>**
 
-**<div align="center">[<img src="https://dabuttonfactory.com/button.png?t=Contact+Me!&f=Open+Sans-Bold&ts=26&tc=fff&tshs=1&tshc=000&hp=25&vp=10&c=11&bgt=unicolored&bgc=1597d7&be=1&shs=1&shc=444&sho=s">](https://brian-reed.mfs.gg/brian-reed)</div>**
+**<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628288497/Vanilla-1s-272px_3_dsf1ae.svg">](https://brian-reed.mfs.gg/brian-reed)</div>**
   
 
 <br/>  
