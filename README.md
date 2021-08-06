@@ -12,15 +12,6 @@
 </a>  
 
 </div>  
-<div>
-<img src="https://res.cloudinary.com/at100dev/image/upload/v1628281170/Vanilla-1s-141px_x9vdud.svg">
-<img src="https://res.cloudinary.com/at100dev/image/upload/v1628281149/Vanilla-1s-188px_wwad3j.svg">
-<img src="https://res.cloudinary.com/at100dev/image/upload/v1628281149/Vanilla-1s-169px_jqwzii.svg">
-<img src="https://res.cloudinary.com/at100dev/image/upload/v1628281149/Vanilla-1s-169px_1_u1twgb.svg">
-<img src="https://res.cloudinary.com/at100dev/image/upload/v1628281150/Vanilla-1s-272px_fc6smz.svg">
-<img src="https://res.cloudinary.com/at100dev/image/upload/v1628281150/Vanilla-1s-272px_1_wdmnym.svg">
-</div>
-
 
 
 ## <div align="center">I'm Brian Reed, a Software Engineer</div>  
