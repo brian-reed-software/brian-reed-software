@@ -4,9 +4,8 @@
 ## <div align="center">I'm Brian Reed, a Software Engineer</div>  
   
 
-**<div align="center">My portfolio </div>**
+**<div align="center">My portfolio: </div>**
 **<div align="center">👉 [Brian Reed Software](https://www.brian-reed.me/) 👈</div>**
-  
 
 **<div align="center">Questions? </div>**  
 **<div align="center">[Contact Me❗](https://brian-reed.mfs.gg/brian-reed) </div>**  
