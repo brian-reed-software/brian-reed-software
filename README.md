@@ -35,7 +35,6 @@
 ## 
 <div align="center">
 <img src="https://res.cloudinary.com/at100dev/image/upload/v1628283783/My_Skill_Set_kzcplc.svg">  
-<table><tr><td aign="center" valign="top" width="100%">
 
 
 <div align="center" width="100%">  
@@ -52,10 +51,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
   </div>
-
-
-
-</td></tr></table>  
 
 <br/>  
 
