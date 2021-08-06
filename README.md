@@ -16,7 +16,7 @@
 ## <div align="center">I'm Brian Reed, a Software Engineer</div>  
   
 
-**<div align="center">My portfolio: </div>**
+**<div align="center">[<img src="https://dabuttonfactory.com/button.png?t=Contact+me!&f=Open+Sans-Bold&ts=26&tc=fff&tshs=1&tshc=000&hp=45&vp=20&c=11&bgt=unicolored&bgc=1597d7&be=1&shs=1&shc=444&sho=s">](https://www.brian-reed.me/)</div>**
 **<div align="center">👉 [Brian Reed Software](https://www.brian-reed.me/) 👈</div>**
 
 **<div align="center">Questions? </div>**  
