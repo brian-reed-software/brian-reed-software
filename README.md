@@ -12,7 +12,7 @@
 
 <br/>  
 
-
+<div align="center">
 ## Connect with me  
 
 <a href="https://github.com/brian-reed-software" target="_blank">
@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/brian-reed-software" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-<div align="center">
+
 </div>  
   
 
@@ -32,6 +32,7 @@
 
 
 ## My Skill Set  
+<div align="center">
 <table><tr><td aign="center" valign="top" width="100%">
 
 ### Technology Used  
@@ -48,6 +49,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
+  </div>
 
 
 
