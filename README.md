@@ -75,9 +75,3 @@
   
 
 <br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=brian-reed-software&&style=flat-square" align="center" />
-</div>  
-
-<br />
