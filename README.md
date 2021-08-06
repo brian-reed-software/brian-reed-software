@@ -32,10 +32,9 @@
 <br/>  
 
 
-## 
 <div align="center">
 <img src="https://res.cloudinary.com/at100dev/image/upload/v1628283783/My_Skill_Set_kzcplc.svg">  
-##
+
 
 <div align="center" width="100%">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
@@ -51,9 +50,12 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
 </div>
-##
 <br/>
 <div align="center">
+  
+
+##
+  
 <img src="https://res.cloudinary.com/at100dev/image/upload/v1628283864/Github_Stats_yqhobs.svg">
   </div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=brian-reed-software&show_icons=true&count_private=true&hide_border=true" align="center" />
