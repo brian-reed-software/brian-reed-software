@@ -30,8 +30,9 @@
 <br/>  
 
 
-## <img src="https://res.cloudinary.com/at100dev/image/upload/v1628271857/Vanilla-1s-282px_lbccx3.svg">  
+## 
 <div align="center">
+<img src="https://res.cloudinary.com/at100dev/image/upload/v1628271857/Vanilla-1s-282px_lbccx3.svg">  
 <table><tr><td aign="center" valign="top" width="100%">
 
 ### Technology Used  
