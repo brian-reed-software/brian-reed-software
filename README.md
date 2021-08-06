@@ -7,7 +7,8 @@
 ## 
 
 <br/>
-
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets9.lottiefiles.com/packages/lf20_alhatqgp.json"  background="transparent"  speed="1"  style="width: 200px; height: 200px;"  loop controls autoplay></lottie-player>
 **<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628288497/Vanilla-1s-272px_4_cql6te.svg">](https://www.brian-reed.me/)</div>**
 
 **<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628288497/Vanilla-1s-272px_3_dsf1ae.svg">](https://brian-reed.mfs.gg/brian-reed)</div>**
