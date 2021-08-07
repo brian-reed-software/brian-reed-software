@@ -7,9 +7,7 @@
 ## 
 
 <br/>
-**<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628288497/Vanilla-1s-272px_4_cql6te.svg">](https://www.brian-reed.me/)</div>**
 
-**<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628288497/Vanilla-1s-272px_3_dsf1ae.svg">](https://brian-reed.mfs.gg/brian-reed)</div>**
   
 
 <br/>  
