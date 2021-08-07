@@ -8,10 +8,10 @@
 
 <br/>
 
-**<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628288497/Vanilla-1s-272px_4_cql6te.svg">](https://www.brian-reed.me/)</div>**
+**<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628295964/Portfolio_1_lkkfpo.svg">](https://www.brian-reed.me/)</div>**
 
 
-**<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628288497/Vanilla-1s-272px_3_dsf1ae.svg">](https://brian-reed.mfs.gg/brian-reed)</div>**
+**<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628295964/Contact_Me_kibhin.svg">](https://brian-reed.mfs.gg/brian-reed)</div>**
   
 
 <br/>  
