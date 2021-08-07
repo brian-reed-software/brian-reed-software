@@ -2,8 +2,8 @@
 
 
 
-**<div align="center"><img src="https://c.tenor.com/5hKPyupKGWMAAAAC/robot-hello.gif"></div>**
-**<div align="center"><img src="https://res.cloudinary.com/at100dev/image/upload/v1628283719/I_m_Brian_Reed_a_Software_Engineer_2_psdfrk.svg">
+**<div align="center">[<img src="https://c.tenor.com/5hKPyupKGWMAAAAC/robot-hello.gif">](https://www.brian-reed.me/)</div>**
+**<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628283719/I_m_Brian_Reed_a_Software_Engineer_2_psdfrk.svg">](https://www.brian-reed.me/)
 <br />**
 
 ## 
