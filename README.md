@@ -8,7 +8,7 @@
 **<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628295964/Portfolio_1_lkkfpo.svg">](https://www.brian-reed.me/)</div>**
 ##
 **<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628295964/Contact_Me_kibhin.svg">](https://brian-reed.mfs.gg/brian-reed)</div>**
-<br/>  
+##
 <div align="center">
 <a href="https://github.com/brian-reed-software" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
