@@ -5,7 +5,7 @@
 
 **<div align="center"><img src="https://res.cloudinary.com/at100dev/image/upload/v1628283719/I_m_Brian_Reed_a_Software_Engineer_2_psdfrk.svg">
 <br />
-<img src="https://res.cloudinary.com/at100dev/image/upload/v1628297719/195_tfssx5.eps"></div>**
+**<div><img src="https://res.cloudinary.com/at100dev/image/upload/v1628297719/195_tfssx5.eps"></div>**
 ## 
 **<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628296962/Portfolio_4_wugw4m.svg">](https://www.brian-reed.me/)</div>**
 ##
