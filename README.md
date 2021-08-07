@@ -8,7 +8,6 @@
 
 <br/>
 <div align="center">
-<img src="https://miro.medium.com/max/1050/1*ZcejW5HfNRRFUPC5dq4HYg.gif">
 </div>
 **<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628288497/Vanilla-1s-272px_4_cql6te.svg">](https://www.brian-reed.me/)</div>**
 
