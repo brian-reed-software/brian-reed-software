@@ -32,7 +32,7 @@
 
 <div align="center">
 <img src="https://res.cloudinary.com/at100dev/image/upload/v1628283783/My_Skill_Set_kzcplc.svg">  
-
+<br/>
 
 <div align="center" width="100%">  
 
