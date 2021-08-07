@@ -25,7 +25,7 @@
   
 **<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628305783/Projects_iup99o.svg">](https://social-again.herokuapp.com/)</div>**
   
-**<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628306750/networkingApp1_yqf56v.jpg">](https://social-again.herokuapp.com/)</div>**
+**<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/b_rgb:000000,c_scale,r_30,w_716/v1628285644/networkingApp_btidp6.jpg">](https://social-again.herokuapp.com/)</div>**
 ##
   
   
