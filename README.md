@@ -7,8 +7,9 @@
 ## 
 
 <br/>
+<div align="center">
 <img src="https://miro.medium.com/max/1050/1*ZcejW5HfNRRFUPC5dq4HYg.gif">
-
+</div>
 **<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628288497/Vanilla-1s-272px_4_cql6te.svg">](https://www.brian-reed.me/)</div>**
 
 **<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628288497/Vanilla-1s-272px_3_dsf1ae.svg">](https://brian-reed.mfs.gg/brian-reed)</div>**
@@ -64,7 +65,8 @@
 <img src="https://res.cloudinary.com/at100dev/image/upload/v1628283864/Github_Stats_yqhobs.svg">
   </div>
 <!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=brian-reed-software&show_icons=true&count_private=true&hide_border=true" align="center" /> -->
-  
+ 
+ <div align="center">
 <img src="https://ghchart.rshah.org/brian-reed-software" /></div>  
 
 <br/>  
