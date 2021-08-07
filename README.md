@@ -23,7 +23,7 @@
 </a></div>
   
 **<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628306037/networkingApp1_bnsp0q.jpg">](https://social-again.herokuapp.com/)</div>**
-**<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628305783/Projects_iup99o.svg">](https://social-again.herokuapp.com/)</div>**
+**<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/r_30/v1628285644/networkingApp_btidp6.jpg">](https://social-again.herokuapp.com/)</div>**
 ##
   
   
