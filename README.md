@@ -3,7 +3,7 @@
 
 
 **<div align="center">[<img src="https://c.tenor.com/5hKPyupKGWMAAAAC/robot-hello.gif">](https://www.brian-reed.me/)</div>**
-**<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628283719/I_m_Brian_Reed_a_Software_Engineer_2_psdfrk.svg">](https://www.brian-reed.me/)
+**<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628283719/I_m_Brian_Reed_a_Software_Engineer_2_psdfrk.svg" width="300px">](https://www.brian-reed.me/)
 <br />**
 
 ## 
