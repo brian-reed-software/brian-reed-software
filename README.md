@@ -26,7 +26,10 @@
   
 **<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628305783/Projects_iup99o.svg">](https://social-again.herokuapp.com/)</div>**
 
-**<div align="center">[<img src="https://repository-images.githubusercontent.com/394708721/49658f52-32f5-4fb5-aaa8-9553f34577d8">](https://fizzbuzz-checker.herokuapp.com/)div>**
+**<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/b_rgb:000000,r_30/v1628306896/networkingApp1_px0fvk.jpg">](https://social-again.herokuapp.com/)</div>**
+**<div align="center">[<img src="https://repository-images.githubusercontent.com/394708721/49658f52-32f5-4fb5-aaa8-9553f34577d8">](https://fizzbuzz-checker.herokuapp.com/)</div>**
+ 
+##
 
   
   
