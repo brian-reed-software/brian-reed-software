@@ -3,48 +3,55 @@
 
 
 **<div align="center">[<img src="https://c.tenor.com/5hKPyupKGWMAAAAC/robot-hello.gif" width="300px"> ](https://www.brian-reed.me/)</div>**
+
 **<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628283719/I_m_Brian_Reed_a_Software_Engineer_2_psdfrk.svg">](https://www.brian-reed.me/)</div>**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-## 
+
 **<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628296962/Portfolio_4_wugw4m.svg">](https://www.brian-reed.me/)</div>**
-##
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 **<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628297027/Contact_Me_2_ydvemp.svg">](https://brian-reed.mfs.gg/brian-reed)</div>**
-##
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
 <div align="center">
+
 <a href="https://github.com/brian-reed-software" target="_blank">
+
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+
 <a href="https://twitter.com/brian_software_" target="_blank">
+
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+
 </a>
+
 <a href="https://linkedin.com/in/brian-reed-software" target="_blank">
+
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a></div>
   
-##
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   
 **<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628305783/Projects_iup99o.svg">](https://social-again.herokuapp.com/)</div>**
 
 **<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/b_rgb:000000,r_30/v1628306896/networkingApp1_px0fvk.jpg">](https://social-again.herokuapp.com/)</div>**
+
 **<div align="center">[<img src="https://repository-images.githubusercontent.com/394708721/49658f52-32f5-4fb5-aaa8-9553f34577d8">](https://fizzbuzz-checker.herokuapp.com/)</div>**
  
-##
-
-  
-  
-  
-
-
-##
-  
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
 <div align="center">
+
 <img src="https://res.cloudinary.com/at100dev/image/upload/v1628283783/My_Skill_Set_kzcplc.svg">  
+
 <br/>
 
 <div align="center" width="100%">  
@@ -66,7 +73,7 @@
 <div align="center">
   
 
-##
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   
 <img src="https://res.cloudinary.com/at100dev/image/upload/v1628283864/Github_Stats_yqhobs.svg">
   </div>
