@@ -3,15 +3,6 @@
 
 
 **<div align="center">[<img src="https://c.tenor.com/5hKPyupKGWMAAAAC/robot-hello.gif" width="300px"> ](https://www.brian-reed.me/)</div>**
-
-**<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628283719/I_m_Brian_Reed_a_Software_Engineer_2_psdfrk.svg">](https://www.brian-reed.me/)</div>**
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-**<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628296962/Portfolio_4_wugw4m.svg">](https://www.brian-reed.me/)</div>**
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-**<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628297027/Contact_Me_2_ydvemp.svg">](https://brian-reed.mfs.gg/brian-reed)</div>**
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <div align="center">
 <a href="https://github.com/brian-reed-software" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -22,6 +13,18 @@
 <a href="https://linkedin.com/in/brian-reed-software" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a></div>
+**<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628283719/I_m_Brian_Reed_a_Software_Engineer_2_psdfrk.svg">](https://www.brian-reed.me/)</div>**
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+**<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628296962/Portfolio_4_wugw4m.svg">](https://www.brian-reed.me/)</div>**
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+
+**<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628297027/Contact_Me_2_ydvemp.svg">](https://brian-reed.mfs.gg/brian-reed)</div>**
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+
+
   
 ##
 
