@@ -16,7 +16,6 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a></div>
 
-
 **<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628283719/I_m_Brian_Reed_a_Software_Engineer_2_psdfrk.svg">](https://www.brian-reed.me/)</div>**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
@@ -24,16 +23,7 @@
 **<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628296962/Portfolio_4_wugw4m.svg">](https://www.brian-reed.me/)</div>**
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-
 **<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628297027/Contact_Me_2_ydvemp.svg">](https://brian-reed.mfs.gg/brian-reed)</div>**
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-
-  
-##
-
-
-  
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   
 **<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628305783/Projects_iup99o.svg">](https://social-again.herokuapp.com/)</div>**
