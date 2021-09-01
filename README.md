@@ -14,7 +14,9 @@
 </a>
 <a href="https://linkedin.com/in/brian-reed-software" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a></div>
+</a></div>**
+
+
 **<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628283719/I_m_Brian_Reed_a_Software_Engineer_2_psdfrk.svg">](https://www.brian-reed.me/)</div>**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
