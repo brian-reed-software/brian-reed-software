@@ -3,7 +3,8 @@
 
 
 **<div align="center">[<img src="https://c.tenor.com/5hKPyupKGWMAAAAC/robot-hello.gif" width="300px"> ](https://www.brian-reed.me/)</div>**
-**<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628283719/I_m_Brian_Reed_a_Software_Engineer_2_psdfrk.svg">](https://www.brian-reed.me/)
+**<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628283719/I_m_Brian_Reed_a_Software_Engineer_2_psdfrk.svg">](https://www.brian-reed.me/)</div>**
+
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 ## 
@@ -39,7 +40,7 @@
 ##
   
 
-<br/>  
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
 <div align="center">
@@ -74,7 +75,7 @@
  <div align="center">
 <img src="https://ghchart.rshah.org/brian-reed-software" /></div>  
 
-<br/>  
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 
 <!-- ## Recent Blog Posts   -->
