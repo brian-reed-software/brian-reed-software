@@ -34,11 +34,8 @@
  
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-
 <div align="center"> 
-
+<img src="https://res.cloudinary.com/at100dev/image/upload/v1628283783/My_Skill_Set_kzcplc.svg">  
 <br/>
 
 <div align="center" width="100%">  
@@ -58,8 +55,7 @@
 </div>
 <br/>
 <div align="center">
-  
-
+ 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
   
 <img src="https://res.cloudinary.com/at100dev/image/upload/v1628283864/Github_Stats_yqhobs.svg">
