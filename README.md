@@ -8,8 +8,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
-
-## 
 **<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628296962/Portfolio_4_wugw4m.svg">](https://www.brian-reed.me/)</div>**
 ##
 **<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628297027/Contact_Me_2_ydvemp.svg">](https://brian-reed.mfs.gg/brian-reed)</div>**
