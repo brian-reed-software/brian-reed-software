@@ -9,9 +9,9 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 **<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628296962/Portfolio_4_wugw4m.svg">](https://www.brian-reed.me/)</div>**
-##
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 **<div align="center">[<img src="https://res.cloudinary.com/at100dev/image/upload/v1628297027/Contact_Me_2_ydvemp.svg">](https://brian-reed.mfs.gg/brian-reed)</div>**
-##
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <div align="center">
 <a href="https://github.com/brian-reed-software" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
