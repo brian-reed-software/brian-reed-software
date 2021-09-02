@@ -2,7 +2,7 @@
 
 
 
-**<div align="center">[<img src="https://c.tenor.com/5hKPyupKGWMAAAAC/robot-hello.gif" width="300px"> ](https://www.brian-reed.me/)</div>**
+**<div align="center">[<img src="https://c.tenor.com/5hKPyupKGWMAAAAC/robot-hello.gif" width="320px"> ](https://www.brian-reed.me/)</div>**
 
 
 <div align="center">
