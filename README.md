@@ -45,24 +45,6 @@ https://social-again.herokuapp.com/
 https://github.com/brian-reed-software/brian-reed-networking-app
 ```
 
-**<div align="center">[<img src="https://repository-images.githubusercontent.com/394708721/49658f52-32f5-4fb5-aaa8-9553f34577d8" width="600px">](https://github.com/brian-reed-software/fizzbuzz-checker)</div>**
-
-
-```Live Address```
-<p align="right">Copy Link Here 👇 </p>
-
-```
-http://fizzbuzz-checker.herokuapp.com/
-```
-
-```Repository```
-<p align="right">Copy Link Here 👇 </p>
-
-```
-https://github.com/brian-reed-software/fizzbuzz-checker/
-```
- 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <div align="center"> 
 <img src="https://res.cloudinary.com/at100dev/image/upload/v1628283783/My_Skill_Set_kzcplc.svg">  
